@@ -1,6 +1,6 @@
 # vue-news
 
-> SuMing's works
+> demo:sumingfeng.github.io
 
 ## Build Setup
 
